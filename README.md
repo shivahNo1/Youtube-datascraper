@@ -32,7 +32,7 @@ Before running the application, ensure you have the following dependencies insta
 
 1. **Clone the repository**:
 ```sh
-git clone (https://github.com/shivahNo1/Youtube-datascraper.git)
+git clone https://github.com/shivahNo1/Youtube-datascraper.git
 ```
 
 2. **Python Packages**:
