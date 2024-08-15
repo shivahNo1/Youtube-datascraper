@@ -5,7 +5,7 @@ from googleapiclient.errors import HttpError
 import streamlit as st
 
 # YouTube API key
-API_KEY = "AIzaSyDO4D-YBKX0S5rQFAoC6wA5mOqKbe_6_g8"
+API_KEY = "APIKEY"
 
 def extract_data_from_youtube(api_key, keyword, max_results):
     # Initialize the YouTube Data API v3 client
